@@ -1,3 +1,5 @@
+## **Anomaly Detection in Clinical Data Using PCA and Mahalanobis Distance**
+
 - Handled Missing Data by removing columns with excessive nulls and imputing remaining values using MICE with Bayesian Ridge and Logistic Regression.
 
 - Cleaned Dataset by dropping irrelevant columns and consolidating ICU-related features into a single simplified indicator.
